@@ -6,9 +6,8 @@
 
 Este repositório é uma coleção de projetos diversos desenvolvidos como parte do meu aprendizado contínuo na área de **Sistemas de Visão**, aplicados aos desafios do **Setor de Automação TEF21 da Bosch Brasil**.
 
-Objetivos:
-1.  **Documentar a jornada de estudos:** Servir como um "diário de bordo" técnico, registrando as soluções criadas.
-2.  **Criar ferramentas funcionais:** Desenvolver scripts e automações que agreguem valor real e otimizem os processos do dia a dia.
+### Objetivo principal:
+Documentar a jornada: Servir como um "diário de bordo" técnico, registrando as soluções criadas e o aprendizado absorvido ao realizá-las.
 
 ---
 
