@@ -4,7 +4,7 @@
 
 ## 📖 Sobre Este Repositório
 
-Este repositório é uma coleção de projetos diversos desenvolvidos como parte do meu aprendizado contínuo na área de **Sistemas de Visão**, aplicados aos desafios do **Setor de Automação TEF21 da Bosch Brasil**.
+Este repositório é uma coleção de projetos diversos desenvolvidos como parte do meu aprendizado contínuo.
 
 ### Objetivo principal:
 Documentar a jornada: Servir como um "diário de bordo" técnico, registrando as soluções criadas e o aprendizado absorvido ao realizá-las.
