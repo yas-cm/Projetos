@@ -1,4 +1,4 @@
-# 📷 Análise de Fotos de Defeitos
+# 📷 Análise de Imagens
 
 Este script automatiza o processo de contagem e classificação de imagens. Ele lê uma estrutura de diretórios, agrupa os dados, e gera um relatório analítico detalhado em uma planilha Excel.
 
