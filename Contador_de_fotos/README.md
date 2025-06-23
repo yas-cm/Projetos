@@ -1,6 +1,6 @@
 # 📷 Análise de Fotos de Defeitos
 
-Este script automatiza o processo de contagem e classificação de fotos de defeitos em bicos injetores. Ele lê uma estrutura de diretórios, agrupa os dados por tipo e defeito, e gera um relatório analítico detalhado em uma planilha Excel.
+Este script automatiza o processo de contagem e classificação de fotos. Ele lê uma estrutura de diretórios, agrupa os dados por tipo e defeito, e gera um relatório analítico detalhado em uma planilha Excel.
 
 Este projeto foi desenvolvido com o objetivo de visualizar de maneira mais eficiente a quantidade de fotos tiradas para o dataset de aprendizado que será implementado pelo setor de Sistemas de Visão na área de automação da Bosch.
 
@@ -57,3 +57,7 @@ python main.py
 ### 3. Analise o Resultado
 
 Um arquivo chamado Fotos_Completo.xlsx será gerado dentro da pasta projeto_analise_fotos. Abra-o para ver o relatório completo nas três abas.
+
+
+## IMPORTANTE
+Os documentos de imagens aqui presentes são apenas de exemplo, não correspondem a nenhum dado devido à política de privacidade de dados.
